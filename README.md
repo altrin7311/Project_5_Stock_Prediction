@@ -13,7 +13,7 @@ An LSTM powered dashboard that forecasts the **next-day S&P 500 closing price** 
 - 📰 **News Agent**: Automatically retrieves recent S&P 500-related headlines.
 - 📊 **Technical Agent**: Calculates indicators like RSI, EMA, MACD, OBV, ATR, Bollinger Bands, etc.
 - 🧾 **Final Decision Agent**: Merges signals from news and technicals to predict the next day's close.
-- 📈 **iOS Stocks-style Plot**: Visualizes price forecast in a familiar interface.
+- 📈 **Stocks-style Plot**: Visualizes price forecast in a familiar interface.
 - 📦 Modular codebase with explainable outputs.
 
 ---
@@ -105,7 +105,7 @@ To use the News Agent:
 ## 📌 Requirements
 
 - Python 3.8+
-- TensorFlow (Mac M1 compatible)
+- TensorFlow 
 - yfinance
 - pandas, numpy, matplotlib, scikit-learn
 - Streamlit
