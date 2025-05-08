@@ -1,6 +1,7 @@
 # 📈 S&P 500 Forecast using LSTM
-<img width="477" alt="Screenshot 2025-05-08 at 9 27 24 PM" src="https://github.com/user-attachments/assets/407a8738-c315-48cd-8060-8971b2a98228" />
-<img width="477" alt="Screenshot 2025-05-08 at 9 27 30 PM" src="https://github.com/user-attachments/assets/afb12197-4923-44f3-af62-da56a0e254a7" />
+<img width="377" alt="Screenshot 2025-05-08 at 9 27 24 PM" src="https://github.com/user-attachments/assets/407a8738-c315-48cd-8060-8971b2a98228" />
+<img width="377" alt="Screenshot 2025-05-08 at 9 27 30 PM" src="https://github.com/user-attachments/assets/afb12197-4923-44f3-af62-da56a0e254a7" />
+
 
 
 An LSTM powered dashboard that forecasts the **next-day S&P 500 closing price** using a hybrid system of technical indicators, news sentiment, and deep learning (LSTM). Built with **Streamlit**, this project combines ML intelligence and market reasoning in a single, intuitive interface.
