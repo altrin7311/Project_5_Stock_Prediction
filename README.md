@@ -15,7 +15,7 @@ An interactive AI-powered dashboard that forecasts the **next-day S&P 500 closin
 
 ---
 
-## 🗂️ Project Structure
+## 🗂️ Project Structure (Not how it is in the repo)
 
 ```
 Project_5_Stock_Prediction/
