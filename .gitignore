@@ -1,0 +1,41 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+
+# OS-generated
+.DS_Store
+
+# Streamlit generated cache
+*.streamlit/
+.streamlit/
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+
+# API keys or sensitive config
+*.env
+api_keys.json
+
+# VS Code metadata
+.vscode/
+
+# Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# Outputs
+outputs/
+
+# Compiled Python
+*.pyc
+*.pyo
+
+# Logs or temp files
+*.log
+*.tmp

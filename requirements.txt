@@ -1,0 +1,28 @@
+# Core ML and data processing
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Deep learning
+tensorflow
+torch
+
+# Hugging Face + LLMs
+transformers
+langchain
+sentence-transformers
+accelerate
+
+# Web + scraping (optional for fetching news)
+beautifulsoup4
+requests
+
+# Sentiment analysis (fallback)
+textblob
+
+# Optional LangChain tools
+huggingface_hub
+
+tensorflow-macos
+tensorflow-metal
