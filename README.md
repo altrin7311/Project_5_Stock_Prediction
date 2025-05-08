@@ -1,6 +1,8 @@
-# 📈 S&P 500 AI Forecast Dashboard
+# 📈 S&P 500 Forecast using LSTM
+<img width="1352" alt="Screenshot 2025-05-08 at 9 27 30 PM" src="https://github.com/user-attachments/assets/187c7b06-88bd-4b4f-8609-4d4f4d373039" />
+<img width="1352" alt="Screenshot 2025-05-08 at 9 27 24 PM" src="https://github.com/user-attachments/assets/0acc4c12-b21f-452c-8791-6bddf002aecb" />
 
-An interactive AI-powered dashboard that forecasts the **next-day S&P 500 closing price** using a hybrid system of technical indicators, news sentiment, and deep learning (LSTM). Built with **Streamlit**, this project combines ML intelligence and market reasoning in a single, intuitive interface.
+An LSTM powered dashboard that forecasts the **next-day S&P 500 closing price** using a hybrid system of technical indicators, news sentiment, and deep learning (LSTM). Built with **Streamlit**, this project combines ML intelligence and market reasoning in a single, intuitive interface.
 
 ---
 
